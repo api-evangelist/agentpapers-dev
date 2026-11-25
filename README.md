@@ -80,11 +80,17 @@ Everything profiled for Agent Papers is published on APIs.io rather than in this
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [agentpapers-dev-mcp.yml](https://apis.io/servers/agentpapers-dev/agentpapers-dev-mcp-yml/)
+
 #### Security (1)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentpapers Dev Domain Security](https://apis.io/security/agentpapers-dev/agentpapers-dev-domain-security/)
+- [Agent Papers Domain Security](https://apis.io/security/agentpapers-dev/agentpapers-dev-domain-security/)
 
 ## Where to find this API
 
@@ -99,18 +105,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 17.6** — emerging · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 15.8** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 65.0 |
+| Discoverability | 71.7 |
 | Contract quality | 0.0 |
-| Contract governance | 16.4 |
-| Operational transparency | 15.8 |
+| Contract governance | 4.5 |
+| Operational transparency | 14.3 |
 | Developer ergonomics | 40.5 |
 | Access clarity | 0.0 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 3.4** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -135,8 +141,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 9.6** — Insurance
+**Regulatory alignment 4.4** — Insurance
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentpapers-dev/](https://apis.io/providers/agentpapers-dev/).
 
